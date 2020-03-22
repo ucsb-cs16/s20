@@ -1,0 +1,121 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+kramdown:
+  parse_block_html: false
+
+exclude: ['vendor', 'setup.sh', 'jekyll.sh']
+include:
+  - _pages
+
+timezone: America/Los_Angeles
+
+url: https://ucsb-cs16.github.io
+baseurl: "/s20"
+github_url: https://github.com/ucsb-cs16/s20
+
+title: "UCSB CS16"
+course: "CS16"
+qtr: "s20"
+quarter: "Spring 2020"
+
+ta_names: "???"
+lab_times: "???"
+instructor: "Lawton Nichols"
+lecture_times: "???"
+lecture_location: "???"
+github_org: ucsb-cs16-s20-nichols
+
+start_week: 1
+start_date: 2020-03-29
+num_weeks: 10
+extra_exam_week: true
+lecture_days_of_week: MW
+
+instructor_url: https://ucsb-cs16.github.io/instructor
+
+cal_dates: >
+  [
+  {"label":"First Day of Instruction", "date":"2020-03-30" },
+  {"label":"Campus Holiday", "date":"2020-05-25" , "holiday":true },
+  {"label":"Drop deadline","date":"2020-04-24" },
+  {"label":"Instruction Ends", "date":"2020-06-05" },
+
+
+  ]
+
+
+collections:
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  lab:
+    output: true
+    permalink: /lab/:path/
+    last_before: false
+  pa:
+    output: true
+    permalink: /pa/:path/
+    last_before: false
+  exam:
+    output: true
+    permalink: /exam/:path/
+  info:
+    output: true
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: hwk
+    values:
+      layout: hwk
+  -
+    scope:
+      path: ""
+      type: lab
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: pa
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: exam
+    values:
+      layout: exam_info
+  -
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout
