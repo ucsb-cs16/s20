@@ -6,7 +6,9 @@ title: "CS16, S20, Nichols"
 
 All announcements will be posted on Piazza [at this link](https://piazza.com/ucsb/spring2020/cs16nichols).
 
-[Link to code written in lecture](https://github.com/ucsb-cs16-mirza/cs16-lectures-sec-A) (it's also on the lecture notes pages).
+[Link to code written in lecture](https://github.com/ucsb-cs16-s20-nichols/code-from-class) (select the appropriate folder for the lecture).
+
+[Link to all "whiteboard" notes written in lecture](https://1drv.ms/u/s!AlgIeD1urAgmgRIKqNrjfkBCWW45?e=m4Gdxj) (select the appropriate file for the lecture).
 
 {% include collapse-button.html label="Information" id="info-list" %}
 

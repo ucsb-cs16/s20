@@ -9,9 +9,9 @@ ready: false
 
 ---
 
-# Code from lecture
+# Lecture Video
 
-<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-25>
+
 
 ## Pointers
 

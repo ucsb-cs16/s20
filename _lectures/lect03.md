@@ -18,9 +18,9 @@ You should change the quality to the highest setting. And I'm sorry that I say "
 - Main lecture: <https://www.youtube.com/watch?v=06yplj26938>
 -->
 
-# Code from lecture
+# Lecture Video
 
-<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-02>
+
 
 # Topics
 

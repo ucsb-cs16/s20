@@ -14,5 +14,5 @@ layout: default
 TBD
 
 <!-- Trailer 936 location: [(Google Maps link here)](https://goo.gl/maps/5P8RwH86sFq)<br />
-![Trailer 936 location](/m19-nichols/images/936.png)
+![Trailer 936 location](/s20/images/936.png)
  -->

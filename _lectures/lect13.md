@@ -9,14 +9,10 @@ ready: false
 
 ---
 
-# Code from lecture
+# Lecture Video
 
-<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/08-15>
 
-# Stuff I wrote on the "whiteboard"
 
-Go here and click on the appropriate date:
-<https://1drv.ms/o/s!AlgIeD1urAgmgQU7loNfb3-LYrma>
 
 # Topics
 

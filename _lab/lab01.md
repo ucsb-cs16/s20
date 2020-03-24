@@ -54,6 +54,12 @@ You are now ready to get the starter code.
 
 ## Getting the starter code  <a name="getstarter"></a>
 
+### If you are using your own computer and not connecting remotely
+
+You may obtain the starter code for all the labs by going here: <https://github.com/ucsb-cs16-s20-nichols/lab-starter-code>, clicking the "Clone or download" button, and choosing the "Download ZIP" option. Now you can follow along with the "connecting remotely" section below, disregarding the `cp` command.
+
+### If you are connecting remotely, or using a lab computer
+
 Copy the code from the instructor's account on the CSIL server into your local lab01 directory by issuing the following command:
 
 ```

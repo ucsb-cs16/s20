@@ -38,7 +38,7 @@ To join this organization, you need to do the following:
 
 2. If you don't already have your **@umail.ucsb.edu** email address associated with your github.com account. It's important that it's your @umail.ucsb.edu and not your @ucsb.edu—the sign up tool won't work otherwise. Go to "settings", add that email, and confirm that email address.
 
-3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-M19-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. **If this step doesn't work for you, ask your TA to add you to the organization manually.**
+3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-S20-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. **If this step doesn't work for you, ask your TA to add you to the organization manually.**
 
 4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs16-s20-nichols>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs16-s20-nichols> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
@@ -49,6 +49,8 @@ We will use gradescope to grade all your homeworks, exams and lab/programming as
 Log into our class site on [https://www.gradescope.com/](https://www.gradescope.com/): CS 16 Summer 2019 (Nichols) and navigate to the lab00 assignment. Keep this page open to submit your code at the end of the lab
 
 # Implement and submit a simple C++ program 
+
+## Note: If you're using your own machine and don't want to connect remotely to a UCSB computer, you can skip to Step 3. Make sure you know how to use SSH, though—you'll need it for CS 24
 
 ## Note: If you're using one of the lab machines (and not your own) you can skip to Step 3
 
@@ -316,9 +318,11 @@ Again, to learn how to use vim, there is no substitute for practice!!! Here are 
 
 * <a href="https://www.fprintf.net/vimCheatSheet.html" target="_blank">another reference cheat sheet for vim</a>
 
-3. <b>Sublime Text 2</b> for Windows OS and MacOS X --- see <a href="https://www.sublimetext.com/" target="_blank">the product website</a> (it's a program that you'd have to download)
+3. <b>Visual Studio Code</b> for Windows OS and MacOS X --- see <a href="https://code.visualstudio.com/" target="_blank">the product website</a> (it's a program that you'd have to download)
 
-4. <b>Notepad++</b> for Windows OS --- see <a href="https://notepad-plus-plus.org/" target="_blank">the product website</a> (it's a program that you'd have to download)
+4. <b>Sublime Text</b> for Windows OS and MacOS X --- see <a href="https://www.sublimetext.com/" target="_blank">the product website</a> (it's a program that you'd have to download)
+
+5. <b>Notepad++</b> for Windows OS --- see <a href="https://notepad-plus-plus.org/" target="_blank">the product website</a> (it's a program that you'd have to download)
 
 
 

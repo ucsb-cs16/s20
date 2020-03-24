@@ -9,18 +9,10 @@ ready: false
 
 ---
 
-# Lecture video
+# Lecture Video
 
-<https://youtu.be/-p3ow9KgunU>
 
-# Stuff I wrote on the "whiteboard"
 
-Go here and click on the appropriate date:
-<https://1drv.ms/o/s!AlgIeD1urAgmgQU7loNfb3-LYrma>
-
-# Code from lecture
-
-<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-16>
 
 # Topics
 ## File I/O basics

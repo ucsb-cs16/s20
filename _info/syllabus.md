@@ -29,7 +29,7 @@ You must contact the instructor for clarification if you receive information fro
 
 ### Are any scores dropped?
 
-I will drop your lowest quiz score. I will not drop any labs, exams, etc.
+I will drop the lowest two quizzes. For late labs, you will receive a 15% penalty for each day the lab is late (deadlines are strict, and it's considered a day late even if it's only late by 1 minute).
 
 ## Grade assignment policy
 
@@ -83,9 +83,9 @@ I will drop your lowest quiz score. I will not drop any labs, exams, etc.
 
 # Schedule <a name="schedule"></a>
 
-For office hours please check the [office hours schedule](/m19-nichols/info/schedule/).
+For office hours please check the [office hours schedule](/s20/info/schedule/).
 
-For hw, lab and exam schedule, please check the [assignment calendar](/m19-nichols/info/calendar/).
+For hw, lab and exam schedule, please check the [assignment calendar](/s20/info/calendar/).
 
 
 # Resources <a name="resources"></a>

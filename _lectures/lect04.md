@@ -9,11 +9,9 @@ ready: false
 
 ---
 
-More slides [here](/m19-nichols/lectures/CS16_Lecture5.pdf)
+# Lecture Video
 
-# Code from Lecture
 
-<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-09>
 
 ## Three key aspects of functions
 * Declaration (what are the inputs, outputs?)

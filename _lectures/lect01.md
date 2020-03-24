@@ -5,13 +5,13 @@ desc: Course overview, a gentle intro to C++ - Standard I/O
 lecture_date: 2020-03-30
 num: Lecture 1
 slides: /lectures/CS16_Lecture1.pdf
-ready: false
+ready: true
 
 ---
 
-# Code from lecture
+# Lecture Video
 
-<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/06-25>
+
 
 # Topics
 
