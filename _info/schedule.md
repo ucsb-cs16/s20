@@ -7,7 +7,7 @@ layout: default
 # Schedule <a name="schedule"></a>
 
 * **Lecture**: TR 11:00am--12:20pm
-* **Lab**: Wednesdays starting at 10:30pm, 12:00pm, or 1:30pm
+* **Lab**: Mondays 3pm, 4pm, 5pm, and 6pm
 
 ## Schedule of office hours and labs, along with Zoom links
 
