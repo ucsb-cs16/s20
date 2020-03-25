@@ -9,7 +9,11 @@ ready: true
 
 ---
 
-# Lecture Video
+# Getting a terminal on your computer (you need to get this working before your lab on Monday)
+
+Come to my office hours if you have any trouble.
+
+# The actual lecture video
 
 
 
