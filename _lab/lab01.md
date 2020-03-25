@@ -346,7 +346,7 @@ Upload your files to your repo on github using github's web interface.
 Once you are satisfied that your program is correct, then it's time to submit it.
 
 
-Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Summer 2019 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. Select the second option and select your github repo for this assignment. You should receive 100/100 for a completely correct program.
+Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Spring 2020 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. Select the second option and select your github repo for this assignment. You should receive 100/100 for a completely correct program.
 
 
 

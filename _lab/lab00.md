@@ -10,19 +10,15 @@ ready: true
 
 # Introduction
 
+Before you start this lab, make sure that you've followed the instructions in Lecture 1 about getting a terminal on your machine. You have several options, and this lab write-up assumes that you're connecting remotely to a UCSB lab machine—you can totally use your own machine instead, though.
 
-Your first lab for this week is an introduction to programming on CSIL and the tools you'll need for this course. The intended outcomes are:
-
-* Help us get to know you 
-* Learn about some of the tools you will be using in this class (gradescope and github)
-
-This lab must be completed INDIVIDUALLY. In the subsequent labs you are encouraged to work with a programming partner.
+This lab must be completed individually. In the subsequent labs you are encouraged to work with a programming partner if you'd like (via Zoom or some other method that allows you to share screens).
 
 # Get setup with the tools for this course
 
 ## Create a CoE account if you don't have one already
 
-We encourage you to complete all programming assignments by logging in to the machines in the Computer Science labs, or to connect remotely. To do this you will need a **College of Engineering account**. You can create an account online at <a href="https://accounts.engr.ucsb.edu/create" target="_blank">https://accounts.engr.ucsb.edu/create</a>.
+To connect remotely to a UCSB lab machine, you will need a **College of Engineering account**. You can create an account online at <a href="https://accounts.engr.ucsb.edu/create" target="_blank">https://accounts.engr.ucsb.edu/create</a>.
 
 If you are enrolled in <i>any</i> CoE course this quarter (including CS24), you can create your account immediately. If you are not, you will need to contact the ECI Help Desk at <a href="mailto:help@engineering.ucsb.edu">help@engineering.ucsb.edu</a>.
 
@@ -46,13 +42,11 @@ To join this organization, you need to do the following:
 
 We will use gradescope to grade all your homeworks, exams and lab/programming assignments. You should have received an email notification with instructions about logging into gradescope. **If you weren't invited to gradescope for some reason, give your TA your name, email and perm number, and they can manually add you to the class.**
 
-Log into our class site on [https://www.gradescope.com/](https://www.gradescope.com/): CS 16 Summer 2019 (Nichols) and navigate to the lab00 assignment. Keep this page open to submit your code at the end of the lab
+Log into our class site on [https://www.gradescope.com/](https://www.gradescope.com/): CS 16 Spring 2020 (Nichols) and navigate to the lab00 assignment. Keep this page open to submit your code at the end of the lab
 
 # Implement and submit a simple C++ program 
 
-## Note: If you're using your own machine and don't want to connect remotely to a UCSB computer, you can skip to Step 3. Make sure you know how to use SSH, though—you'll need it for CS 24
-
-## Note: If you're using one of the lab machines (and not your own) you can skip to Step 3
+## Note: If you're using your own machine and don't want to connect remotely to a UCSB lab computer, you can skip to Step 3. Make sure you know how to use SSH, though—you'll need it for CS 24
 
 ## Step 1: Open a Terminal and write a "Hello World" program 
 
@@ -403,7 +397,7 @@ If you encounter an error, use the compiler hints and examine the line in questi
 Once you are satisfied that your program is correct, then it's time to submit it.
 
 
-Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Summer 2019 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. For now choose the first option and follow the steps to upload hello.cpp to gradescope. We will use the second method later on in the course.
+Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Spring 2020 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. For now choose the first option and follow the steps to upload hello.cpp to gradescope. We will use the second method later on in the course.
 
 You should receive 50/50 for a correct "Hello World " program
 

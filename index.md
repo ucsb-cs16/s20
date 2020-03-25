@@ -6,11 +6,11 @@ title: "CS16, S20, Nichols"
 
 All announcements will be posted on Piazza [at this link](https://piazza.com/ucsb/spring2020/cs16nichols).
 
-[Links to live lab section and office hours](/s20/info/schedule)
-
-[Link to code written in lecture](https://github.com/ucsb-cs16-s20-nichols/code-from-class) (select the appropriate folder for the lecture).
+[Links to live lab sections and office hours](/s20/info/schedule)
 
 [Link to all "whiteboard" notes written in lecture](https://1drv.ms/u/s!AlgIeD1urAgmgRIKqNrjfkBCWW45?e=m4Gdxj) (select the appropriate file for the lecture).
+
+[Link to code written in lecture](https://github.com/ucsb-cs16-s20-nichols/code-from-class) (select the appropriate folder for the lecture).
 
 {% include collapse-button.html label="Information" id="info-list" %}
 
