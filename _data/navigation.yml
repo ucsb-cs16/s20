@@ -67,7 +67,7 @@ offering_links:
          description: "Q&A Forum"
   - title: Github
     dropdown:
-       - title: ucsb-cs16-mirza
+       - title: ucsb-cs16-s20-nichols
          url: https://github.com/ucsb-cs16-s20-nichols
 
 main_dropdown:
