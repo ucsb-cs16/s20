@@ -21,7 +21,7 @@ All announcements will be posted on Piazza [at this link](https://piazza.com/ucs
 </div>
 
 
-{% include collapse-button.html label="Lecture Notes and Slides" id="lectures" %}
+{% include collapse-button.html label="Lecture Videos, Notes, and Slides" id="lectures" %}
 <div class="collapse" id="lectures">
  <div class="card card-body" markdown="1">
    {%include lectures_table.html %}
