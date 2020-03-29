@@ -9,7 +9,7 @@ Come to my office hours if you have any trouble. All the notes that I wrote in t
 
 ## Using a Mac
 
-Watch this video: <https://youtu.be/OfYG6WxlXes>
+Watch this video: <https://youtu.be/OfYG6WxlXes>. If you're on a newer version of Mac OS, you might get an error, and the solution to make things work is here: <https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a>.
 
 ## Using Virtualbox (Windows or Mac)
 
