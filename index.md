@@ -12,6 +12,8 @@ All announcements will be posted on Piazza [at this link](https://piazza.com/ucs
 
 [Link to code written in lecture](https://github.com/ucsb-cs16-s20-nichols/code-from-class) (select the appropriate folder for the lecture).
 
+[Getting a terminal on your computer](/s20/info/terminal)
+
 {% include collapse-button.html label="Information" id="info-list" %}
 
 <div class="collapse" id="info-list">

@@ -11,17 +11,13 @@ ready: true
 
 # The lecture video
 
-(Also watch one of the videos below about getting a terminal on your machine. You should watch this lecture video first, so that the terminal commands make more sense to you.)
+(Also follow the link below about getting a terminal on your machine. You should watch this lecture video first, so that the terminal commands make more sense to you.)
 
 <https://youtu.be/Jb59H8_qcRk>
 
 # Getting a terminal on your computer (you need to get this working before your lab on Monday)
 
-Using a Mac: <https://youtu.be/OfYG6WxlXes>
-
-Using Virtualbox (Windows or Mac): <https://youtu.be/M5yzMPNZMCw>. I had some trouble getting shared folders working properly, but just watch until the very end and it'll all work out!
-
-Come to my office hours if you have any trouble. All the notes that I write are available for you to view using the "whiteboard notes" link on the homepage.
+Go to [this page](/s20/info/terminal) and click on one of the choices for your operating system.
 
 # Topics
 

@@ -5,13 +5,13 @@ desc: ' Control Structures, I/O in programs'
 lecture_date: 2020-04-01
 num: Lecture 2
 slides: /lectures/CS16_Lecture2.pdf
-ready: false
+ready: true
 
 ---
 
 # Lecture Video
 
-
+<https://youtu.be/46d9NjoX2cw>
 
 # Topics
 
