@@ -17,6 +17,8 @@ Watch this video: <https://youtu.be/M5yzMPNZMCw>. I had some trouble getting sha
 
 It is possible that your Windows computer might give you an error when you try to unzip the `Debian.vdi.zip` file—to make it work, download 7-Zip (<https://www.7-zip.org/>) and use that to unzip the file.
 
+If you're feeling adventurous, the Windows Subsystem for Linux option below is probably the best one for Windows users—it does require a bit more up-front work, but it's the most seamless experience. Perhaps you can start with Virtualbox and then get WSL working later!
+
 ## Using Windows Subsystem for Linux
 
 There are 2 options for working in a Windows environment.
