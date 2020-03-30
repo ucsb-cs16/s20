@@ -15,6 +15,8 @@ Watch this video: <https://youtu.be/OfYG6WxlXes>. If you're on a newer version o
 
 Watch this video: <https://youtu.be/M5yzMPNZMCw>. I had some trouble getting shared folders working properly, but just watch until the very end and it'll all work out!
 
+It is possible that your Windows computer might give you an error when you try to unzip the `Debian.vdi.zip` file—to make it work, download 7-Zip (<https://www.7-zip.org/>) and use that to unzip the file.
+
 ## Using Windows Subsystem for Linux
 
 There are 2 options for working in a Windows environment.
