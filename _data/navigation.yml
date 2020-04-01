@@ -34,12 +34,6 @@ offering_links:
   - title: Lab
     url: /lab/
     description: "Lab Assignments"
-  - title: Lectures
-    url: /lectures/
-    description: "Lecture slides and notes"
-  - title: Exam
-    url: /exam/
-    description: "Exams"
   - title: Calendar
     url: /info/calendar/
     description: "Assignment Calendar"
