@@ -32,7 +32,7 @@ In this lab you will get practice
 
 ## Working in Pairs
 
-Pair programming is encouraged, but not required.
+Pair programming is encouraged, but not required. Remember that Zoom allows screen-sharing, so it's totally possible! (Everything below is written as if you're both in the same room, though.)
 
 You are not expected to finish the entire lab in one sitting. Please don't rush through it and read all instructions carefully. We encourage you to work in pairs for this lab.
 
@@ -44,10 +44,9 @@ Please sit with your pair partner on the same terminal. Decide who will be the '
 
 * If you face difficulties with pair programming consult your TA.
 
+## Log on and create a local directory if using CSIL
 
-## Log on and create a local directory
-
-* Log into the driver's CoE account on CSIL and open a terminal.
+* Log into the driver's CoE account on CSIL and open a terminal
 * Under your cs16 directory, driver create a new directory named lab01 (refer to lab00 for instructions if you have forgotten how to do this)
 
 You are now ready to get the starter code.
@@ -179,7 +178,7 @@ while(x>0){
 The above code prints 5 4 3 2 1.
 
 
-To compile your code use the g++ command as in lab01 OR the simple make command as in lab01
+To compile your code use the g++ command OR the simple make command
 
 `$ g++ -std=c++11 -o block block.cpp`
 

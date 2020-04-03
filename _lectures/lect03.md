@@ -5,7 +5,7 @@ desc: Loops (for, while, do-while), doubles, functions
 lecture_date: 2020-04-06
 num: Lecture 3
 slides: /lectures/CS16_Lecture3.pdf
-ready: false
+ready: true
 
 ---
 
@@ -20,7 +20,10 @@ You should change the quality to the highest setting. And I'm sorry that I say "
 
 # Lecture Video
 
+In two parts today because I forgot to talk about function declarations!
 
+- **Part 1:** <https://youtu.be/nj_KMp_zh2w>
+- **Part 2:** <https://youtu.be/bW_mHZUJc5s>
 
 # Topics
 
@@ -64,5 +67,4 @@ Horses cost $10, pigs cost $3, and rabbits are only $0.50. A farmer buys 100 ani
 
 Write a program to do this.
 
-## Precedence
 
