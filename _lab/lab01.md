@@ -18,6 +18,12 @@ Even if you only want partial credit for this lab, **you have to submit every si
 
 The reason this happens is because the autograder needs to compile all the programs before it can start running its tests.
 
+## Copying files from CSIL to your local machine using FileZilla or `scp` (you're not required to use CSIL for any labs, though)
+
+If you're hardcore and edited your files on CSIL instead of your local machine, here's a video about using FileZilla to copy them onto your local computer: <https://youtu.be/oxltWjYyc5w>.
+
+There's also the `scp` command if you're a purist: <https://ucsb-cs16.github.io/topics/csil_copying_files/>
+
 ## Goals for this lab
 
 In this lab you will get practice 
@@ -53,7 +59,7 @@ You are now ready to get the starter code.
 
 ## Getting the starter code  <a name="getstarter"></a>
 
-### If you are using your own computer and not connecting remotely
+### If you are using your own computer and not connecting remotely to CSIL
 
 You may obtain the starter code for all the labs by going here: <https://github.com/ucsb-cs16-s20-nichols/lab-starter-code>, clicking the "Clone or download" button, and choosing the "Download ZIP" option. Now you can follow along with the "connecting remotely" section below, disregarding the `cp` command.
 
@@ -91,7 +97,7 @@ For this lab and all subsequent programming assignments, you should start by cre
 
 * Click on the "Create repo button"
 
-* Click on the "Settings" tab, then click on the "Collaborators and teams". Search for your partner's github username under collaborators and add them. Log out of github.
+* Click on the "Settings" tab, then click on the "Collaborators and teams". Search for your partner's github username under collaborators and add them.
 
 * Navigator, log into github and accept the invitation.
 
@@ -99,7 +105,7 @@ For this lab and all subsequent programming assignments, you should start by cre
 
 ## Upload the initial version of your code using github's web interface 
 
-* Upload the files in your lab01 directory to the new repo you created in the previous step. To do this, you should be physically present on a lab machine or in CSIL where you have access to a web browser and a local copy of your files (min2.cpp  min3v1.cpp  min3v2.cpp README.md). On your web browser, navigate to your repo on github. Click on the "Upload files" button.
+* Upload the files in your lab01 directory to the new repo you created in the previous step. To do this, you should make sure you have a local copy of your files (min2.cpp  min3v1.cpp  min3v2.cpp README.md) on your computer if you edited them over SSH. On your web browser, navigate to your repo on github. Click on the "Upload files" button.
 
 * Now either drag and drop the files: from your machine or use the "Choose your files" option to browse through your local directory and upload the file. Then press the green "Commit new files" button. Navigate back to your repo to see that the files you uploaded are correctly listed. Click on it and you should see your code on github's web interface. 
 
