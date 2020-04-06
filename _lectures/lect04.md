@@ -5,13 +5,13 @@ desc: Functions
 lecture_date: 2020-04-08
 num: Lecture 4
 slides: /lectures/CS16_Lecture4.pdf
-ready: false
+ready: true
 
 ---
 
 # Lecture Video
 
-
+<https://youtu.be/r2BCn5XqfGg>
 
 ## Three key aspects of functions
 * Declaration (what are the inputs, outputs?)
