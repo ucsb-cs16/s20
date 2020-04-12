@@ -11,7 +11,7 @@ ready: false
 
 # Lecture Video
 
-
+<https://youtu.be/JpUkfHMAnp4>
 
 # Super Sweet Makefile Tutorial
 
@@ -29,9 +29,6 @@ Made by Jacqui Mai, Professor K, and me.
 * Key ideas: bits can represent ANYTHING. With n bits we can represent at most 2^N things
 * Apply above rule to represent characters (ASCII), unicode, colors ....
 * The data type of a variable determines its representation in memory AND the number of bits used to store each variable
-
-
-## Precedence
 
 
 ## Test driven development
