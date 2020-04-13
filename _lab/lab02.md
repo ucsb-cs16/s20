@@ -60,6 +60,8 @@ Below are the links to different sections of the lab:
    git config --global user.email "atriton@cs.ucsb.edu"
 ```
 
+**Note: Generating private and public keys below has been a source of great frustration for students in the past. You don't have to make these, but if you do it will make it so that you don't have to type your GitHub username/password in your terminal ever again.**
+
 * Next, generate a private/public key pair and upload your public key to your github account. To do this refer to this tutorial: [https://ucsb-cs56-pconrad.github.io/topics/github_ssh_keys/](https://ucsb-cs56-pconrad.github.io/topics/github_ssh_keys/) In the process of setting up your key pair, when asked for a passphrase just press enter. By doing this step you will avoid having to enter a password or passphrase everytime you push your code to git.
 
 
