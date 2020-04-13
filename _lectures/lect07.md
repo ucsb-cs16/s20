@@ -1,7 +1,7 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture7_ann.pdf
 annotatedready: true
-desc: Arrays
+desc: File I/O, Arrays
 lecture_date: 2020-04-20
 num: Lecture 7
 slides: /lectures/CS16_Lecture8.pdf
