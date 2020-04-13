@@ -92,8 +92,9 @@ git clone git@github.com:ucsb-cs16-m19/lab02_alily_jgaucho.git
 cd lab02_alily_jgaucho
 ```
 
+* If you're on your local machine, please follow the instructions from lab01 to download the starter code for every lab. Then you can copy it into the folder that your `git` command just created 
 
-* Copy the starter code by typing the following command:
+* If you are using CSIL, Copy the starter code by typing the following command:
 
 ```
 cp /cs/student/lawtonnichols/cs16/labs/lab02/* ./
