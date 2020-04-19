@@ -5,13 +5,14 @@ desc: File I/O, Arrays
 lecture_date: 2020-04-20
 num: Lecture 7
 slides: /lectures/CS16_Lecture8.pdf
-ready: false
+ready: true
 
 ---
 
 # Lecture Video
 
-
+* **Part 1:** <https://youtu.be/ZsRja1_Lpg8>
+* **Part 2:** <https://youtu.be/mWncdbGYxDs>
 
 # Topics
 
