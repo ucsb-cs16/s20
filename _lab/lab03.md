@@ -24,7 +24,7 @@ By the time you have completed this lab, you should be able to:
 
 # Step by Step Instructions
 
-* [Log on to CSIL and bring up a terminal window](#step1){: data-ajax="false"}
+* [Bring up a terminal window](#step1){: data-ajax="false"}
 * [Create a new repo, add your partner as collaborator and clone it to your local directory](#step2){: data-ajax="false"}
 * [Get the starter code from a local directory](#step3){: data-ajax="false"}
 * [Compile and run the first program for this assignment](#step4){: data-ajax="false"}
@@ -34,10 +34,7 @@ By the time you have completed this lab, you should be able to:
 * [Turn in your code ](#step8){: data-ajax="false"}
 
 
-## Step 1: Log on to CSIL and bring up a terminal window. <a name="step1"></a>
-
-I hope I can safely assume that you have all gotten a CoE account.
- If your account is not working,  get the attention of the instructor.
+## Step 1 (optional if you're on your own machine): Log on to CSIL and bring up a terminal window. <a name="step1"></a>
 
 Log into your account to make sure it works.
 As a reminder to get to the terminal go to <strong>Application</strong> Menu, then <strong>System Tools</strong>, then <strong>Terminal Window</strong>.
@@ -56,8 +53,11 @@ In lab02,  we have done the same thing. So if you don't know to how to do that, 
 * Go to your CS16 directory and clone the repo locally.
 
 
-## Step 3: Get the starter code from a local directory <a name="step3"></a>
+## Step 3: Get the starter code <a name="step3"></a>
 
+* **If you're on your local machine**, please follow the instructions from lab01 to download the starter code for every lab. Then you can copy the lab03 starter code (in the lab03 folder) into the folder that your `git` command just created.
+
+* **If you are using CSIL**, Copy the starter code by using the `cp` command below.
 
 Copy the skeleton to your local lab03 repo using the following command, <strong>REMEMBER</strong> to change the directory name in the commands below to your own directory's name, in this lab we simply use lab03_agaucho_alily as a example for your local git directory:
 
