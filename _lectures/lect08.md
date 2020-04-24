@@ -5,13 +5,13 @@ desc: Pointers
 lecture_date: 2020-04-27
 num: Lecture 8
 slides: /lectures/CS16_Lecture9.pdf
-ready: false
+ready: true
 
 ---
 
 # Lecture Video
 
-
+<https://youtu.be/FJuo80foN7E>
 
 ## Pointers
 
