@@ -36,6 +36,10 @@ Remember to push your work to github at the end of EVERY work session. That way,
 
 ## Step 2: Obtain the starter code
 
+* **If you're on your local machine**, please follow the instructions from lab01 to download the starter code for every lab. Then you can copy the lab05 starter code (in the lab05 folder) into the folder that your `git` command just created.
+
+* **If you are using CSIL**, Copy the starter code by using the `cp` command below.
+
 This step is similar to lab02, first clone your github repo in the ~/cs16/ directory. Then cd into your repo directory.
 ```
   cd ~/cs16/lab05_gaucho_ally

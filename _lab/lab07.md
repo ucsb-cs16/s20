@@ -39,6 +39,7 @@ Note: Remember to push your work to github at the end of EVERY work session. Tha
 
 ## Step 2: Obtaining the starter code
 
+
 * Navigate to your cs16 directory and clone the git repository you created
 ```
 git clone git@github.com:ucsb-cs16-s20-nichols/lab07_alily_jgaucho.git
@@ -47,6 +48,10 @@ git clone git@github.com:ucsb-cs16-s20-nichols/lab07_alily_jgaucho.git
 ```
 cd lab07_alily_jgaucho
 ```
+
+* **If you're on your local machine**, please follow the instructions from lab01 to download the starter code for every lab. Then you can copy the lab07 starter code (in the lab07 folder) into the folder that your `git` command just created.
+
+* **If you are using CSIL**, Copy the starter code by using the `cp` command below.
 
 * Copy the starter code by typing the following command:
 

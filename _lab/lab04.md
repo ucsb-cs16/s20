@@ -48,8 +48,11 @@ In lab02,  we have done the same thing. So if you don't know to how to do that, 
 
 * Go to your CS16 directory and clone the repo locally.
 
-## Step 3: Get the starter code from a local directory <a name="step3"></a>
+## Step 3: Get the starter code <a name="step3"></a>
 
+* **If you're on your local machine**, please follow the instructions from lab01 to download the starter code for every lab. Then you can copy the lab04 starter code (in the lab04 folder) into the folder that your `git` command just created.
+
+* **If you are using CSIL**, Copy the starter code by using the `cp` command below.
 
 Copy the skeleton to your local lab04 repo using the following command, <strong>REMEMBER</strong> to change the directory name in the commands below to your own directory's name, in this lab we simply use lab04_agaucho_alily as a example for your local git directory:
 

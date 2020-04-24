@@ -40,6 +40,11 @@ Clone your github repo in the ~/cs16/ directory. Then cd into your repo director
 ```
   cd ../lab08_gaucho_ally
 ```
+
+* **If you're on your local machine**, please follow the instructions from lab01 to download the starter code for every lab. Then you can copy the lab08 starter code (in the lab08 folder) into the folder that your `git` command just created.
+
+* **If you are using CSIL**, Copy the starter code by using the `cp` command below.
+
 Copy the code starter code for lab08 using the following command.
 
 ```
