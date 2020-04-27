@@ -5,13 +5,13 @@ desc: "References, defining your own data types with structs"
 lecture_date: 2020-04-29
 num: Lecture 9
 slides: /lectures/CS16_Lecture10.pdf
-ready: false
+ready: true
 
 ---
 
 # Lecture Video
 
-
+<https://youtu.be/sLGuWIzgSjU>
 
 ## Pointers and structs
 * Defining your own data types using structs
