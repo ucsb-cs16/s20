@@ -13,7 +13,7 @@ ready: true
 
 <https://youtu.be/rYPnalyY-Co>
 
-I went the full time today, so I'll make it up to you with a shorter video on Wednesday!
+I went the full time today, so I'll make it up to you with a shorter video either on Wednesday or next Monday!
 
 # Topics
 
