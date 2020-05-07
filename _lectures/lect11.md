@@ -13,7 +13,6 @@ ready: true
 
 <https://youtu.be/G2qzZAvF53w>
 
-
 # Topics
 
 * Linked-lists

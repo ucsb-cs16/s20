@@ -4,6 +4,8 @@ title: "CS16, S20, Nichols"
 
 ## {{site.course}} {{site.quarter}}
 
+Provide questions/suggestions for Lawton to answer/talk about in lecture [by following this link](https://docs.google.com/document/d/1obDGhA3Vw9_pq7gfrrlKC66u-vCjPx6_CJoXetdejUo/edit?usp=sharing)! Please ask all questions for the next week **by 7pm on Friday**.
+
 All announcements will be posted on Piazza [at this link](https://piazza.com/ucsb/spring2020/cs16nichols).
 
 [Links to live lab sections and office hours](/s20/info/schedule)
