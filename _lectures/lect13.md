@@ -1,10 +1,10 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture13_ann.pdf
 annotatedready: true
-desc: More recursion, strings
+desc: Recursion
 lecture_date: 2020-05-18
 num: Lecture 13
-slides: /lectures/CS16_Lecture14.pdf
+slides: /lectures/CS16_Lecture13.pdf
 ready: false
 
 ---
