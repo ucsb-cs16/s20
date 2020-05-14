@@ -1,7 +1,7 @@
 ---
 assigned: 2020-05-18 00:00
 desc: Linked lists
-due: 2020-05-24 23:59
+due: 2020-05-26 23:59
 layout: lab
 num: lab07
 ready: true

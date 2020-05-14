@@ -1,7 +1,7 @@
 ---
 assigned: 2020-05-11 00:00
 desc: Advanced array lists and dynamic arrays
-due: 2020-05-17 23:59
+due: 2020-05-19 23:59
 layout: lab
 num: lab06
 ready: true
