@@ -15,6 +15,11 @@ ready: false
 
 # Topics
 
+* char arrays, C-strings and string literals
+* Basic operations on C-Strings s
+* String class objects and methods (similarities and differences with c-strings)
+* Understanding the problems for lab08 - isAnagram
+
 - Super awesome recursion example slides
 - Power function
 - Fibonacci sequence function
