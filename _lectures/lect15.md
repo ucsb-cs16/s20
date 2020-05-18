@@ -13,3 +13,6 @@ ready: false
 
 
 
+- Super awesome recursion example slides
+- Power function
+- Fibonacci sequence function
