@@ -19,8 +19,7 @@ You must contact the instructor for clarification if you receive information fro
 # Grading <a name="grading"></a>
 
 ## Grade breakdown by evaluation component
-* Participation: 2% (If I can't figure out how to track participation, I'll just make homeworks worth 15%)
-* Homeworks/Quizzes: 13%
+* Homeworks/Quizzes: 15%
 * Lab assignments: 35%
 * Midterm Exams (2 at 15% each): 30%
 * Final Examination : 20%
