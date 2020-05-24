@@ -11,8 +11,8 @@ ready: false
 
 # Lecture Video
 
+<https://youtu.be/-wHYkHuXYQ4>
 
-
+- Answers to your questions
 - Super awesome recursion example slides
-- Power function
-- Fibonacci sequence function
+- Extra recursion examples on ints, trees, and linked lists
