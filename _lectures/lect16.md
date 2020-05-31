@@ -5,12 +5,12 @@ desc: Wrap-Up, Review
 lecture_date: 2020-06-01
 num: Lecture 16
 slides: /lectures/CS16_Lecture15.pdf
-ready: false
+ready: true
 
 ---
 
 # Lecture Video
 
-
+<https://youtu.be/_nkJySP2oqQ>
 
 
